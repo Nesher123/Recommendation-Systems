@@ -1,0 +1,6 @@
+1. Popularity-based model
+2. nDCG
+3. bias problem --> SGD with learning rate 0.1
+4. run and save temp resuts
+5. extract evaluation code from actual run
+6. question 3
