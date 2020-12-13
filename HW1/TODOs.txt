@@ -1,7 +1,7 @@
 1. Popularity-based model
-2. nDCG
+2. nDCG - V
 3. bias problem --> SGD with learning rate 0.1
-4. run and save temp results to .pkl files
-5. extract evaluation code from actual run
+4. run and save temp results to .pkl files - V
+5. extract evaluation code from actual run - V
 6. question 3
 7. change number of folds to 5 (currently 2)
