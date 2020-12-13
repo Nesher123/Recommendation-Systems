@@ -1,7 +1,8 @@
-1. Popularity-based model
-2. nDCG - V
-3. bias problem --> SGD with learning rate 0.1
-4. run and save temp results to .pkl files - V
-5. extract evaluation code from actual run - V
-6. question 3
-7. change number of folds to 5 (currently 2)
+Popularity-based model:
+ 1. Take the "ratings" matrix
+ 2. Create a "predictions" matrix where every rating for a movie is its average:
+     - For EVERY user we predict the rating to item X as X's average rating (from "ratings", but not including the 0 ratings!)
+ 3. Calculate RMSE, MRR, nDCG
+ 4. Plot and add to the Word document! (you can easily see how I implemeted it to each metric with the SGD, ALS and Bias-only models)
+ 
+ 5. SUBMIT!!! (main notebook ipynb and Word document)
