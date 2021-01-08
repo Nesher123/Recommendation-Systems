@@ -1,8 +1,0 @@
-Popularity-based model:
- 1. Take the "ratings" matrix
- 2. Create a "predictions" matrix where every rating for a movie is its average:
-     - For EVERY user we predict the rating to item X as X's average rating (from "ratings", but not including the 0 ratings!)
- 3. Calculate RMSE, MRR, nDCG
- 4. Plot and add to the Word document! (you can easily see how I implemeted it to each metric with the SGD, ALS and Bias-only models)
- 
- 5. SUBMIT!!! (main notebook ipynb and Word document) - "Zip file including Jupyter notebook file and images"
