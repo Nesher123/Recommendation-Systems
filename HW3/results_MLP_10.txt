@@ -1,0 +1,22 @@
+Running on Model: MLP, using top_k: 5
+0 [13.4 s]: MRR = 0.1315, NDCG = 0.1660, loss = 0.3301 
+1 [12.8 s]: MRR = 0.1477, NDCG = 0.1881, loss = 0.3023 
+2 [12.9 s]: MRR = 0.1573, NDCG = 0.2004, loss = 0.2879 
+3 [13.2 s]: MRR = 0.1628, NDCG = 0.2075, loss = 0.2794 
+4 [13.0 s]: MRR = 0.1651, NDCG = 0.2102, loss = 0.2745 
+5 [13.2 s]: MRR = 0.1663, NDCG = 0.2125, loss = 0.2714 
+6 [13.1 s]: MRR = 0.1637, NDCG = 0.2103, loss = 0.2691
+7 [12.9 s]: MRR = 0.1687, NDCG = 0.2165, loss = 0.2674 
+8 [13.2 s]: MRR = 0.1685, NDCG = 0.2157, loss = 0.2660 
+9 [13.1 s]: MRR = 0.1657, NDCG = 0.2124, loss = 0.2648 
+Running on Model: MLP, using top_k: 10
+0 [13.3 s]: MRR = 0.1960, NDCG = 0.2828, loss = 0.2638 
+1 [13.1 s]: MRR = 0.1977, NDCG = 0.2834, loss = 0.2629 
+2 [13.1 s]: MRR = 0.1955, NDCG = 0.2825, loss = 0.2622 
+3 [13.8 s]: MRR = 0.1951, NDCG = 0.2823, loss = 0.2615 
+4 [13.1 s]: MRR = 0.1920, NDCG = 0.2793, loss = 0.2608 
+5 [13.1 s]: MRR = 0.1989, NDCG = 0.2858, loss = 0.2602 
+6 [13.8 s]: MRR = 0.1959, NDCG = 0.2831, loss = 0.2597 
+7 [13.0 s]: MRR = 0.1964, NDCG = 0.2835, loss = 0.2593 
+8 [12.8 s]: MRR = 0.1921, NDCG = 0.2802, loss = 0.2589 
+9 [13.3 s]: MRR = 0.1945, NDCG = 0.2823, loss = 0.2585
