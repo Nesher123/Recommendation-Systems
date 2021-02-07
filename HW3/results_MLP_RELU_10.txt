@@ -1,0 +1,10 @@
+MRR = 0.2126, NDCG = 0.2971, loss = 0.0823
+MRR = 0.2013, NDCG = 0.2873, loss = 0.0820
+MRR = 0.1995, NDCG = 0.2860, loss = 0.0818
+MRR = 0.2126, NDCG = 0.2984, loss = 0.0815
+MRR = 0.2120, NDCG = 0.2972, loss = 0.0814
+MRR = 0.2094, NDCG = 0.2943, loss = 0.0812
+MRR = 0.2061, NDCG = 0.2924, loss = 0.0810
+MRR = 0.2039, NDCG = 0.2900, loss = 0.0809
+MRR = 0.2038, NDCG = 0.2902, loss = 0.0807
+MRR = 0.2120, NDCG = 0.2979, loss = 0.0806
