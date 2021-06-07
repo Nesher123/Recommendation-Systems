@@ -1,2 +1,1 @@
-# Recommendation-Systems
-Recommendation Systems HW assignments
+# Recommendation Systems course, IDC 2021
