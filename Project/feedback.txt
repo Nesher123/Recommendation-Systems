@@ -1,3 +1,12 @@
 grade: 74.00 / 100.00
 
-Q1A: Learning rate is missing from update rules (-3) Your variable z has subscripts _i_j Q1B: Only one price heuristic is offered Q2A: Q2B: Q2C: Q2D: Q2E: Comparison table\aggregated graphs are missing (-4) No discussion in the results, which model was better for which metric and why? Did it meet your expectation? (-5) Only one price heuristic was implemented (-5) No discussion for 'healthy learning', and no training loss vs. validation loss to verify there is no overfit. (-7) Q3A: Zip code without pre-processing is a very problematic feature since it is very sparse. (-2)No feature exploration to evaluate which of the features will improve the recommendations Q3C: When giving the input to an embedding layer at Keras, you are providing the 'one hot' index. You can't provide mulitple numbers. How will you address this technical problem? (-2)
+Q1A: Learning rate is missing from update rules (-3) Your variable z has subscripts _i_j 
+Q1B: Only one price heuristic is offered 
+Q2A: Q2B: Q2C: Q2D: Q2E: Comparison table\aggregated graphs are missing (-4) 
+No discussion in the results, which model was better for which metric and why? Did it meet your expectation? (-5) 
+Only one price heuristic was implemented (-5)
+No discussion for 'healthy learning', and no training loss vs. validation loss to verify there is no overfit. (-7) 
+Q3A: Zip code without pre-processing is a very problematic feature since it is very sparse. (-2)N
+o feature exploration to evaluate which of the features will improve the recommendations 
+Q3C: When giving the input to an embedding layer at Keras, you are providing the 'one hot' index. You can't provide mulitple numbers. 
+How will you address this technical problem? (-2)

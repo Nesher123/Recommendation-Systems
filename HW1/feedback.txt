@@ -1,0 +1,8 @@
+Q1:
+Very clear and informative data exploration plots.
+In my opinion, it is better to reduce some of the spaces between bars. 
+Next time it is better to add explanation to the notebook itself - this is one of the biggest advantages of notebooks.
+
+Q2:
+Good answer overall.
+I would expect to mention your conclusion about the learning process - why in some cases the learning process stops after few iterations? All the iteration are necessary?

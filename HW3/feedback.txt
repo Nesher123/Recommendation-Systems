@@ -1,0 +1,3 @@
+2.b missing training results -7
+2.c  comparison to past exercises isn't good. Why didn't you show a table that compares all the results? -2
+3.a lack of results explanation -2
